@@ -54,11 +54,20 @@ Data yang digunakan dalam analisis ini telah dimodelkan pada proyek Olist Data W
   - _Evaluasi biaya logistik dan lakukan negosiasi dengan mitra pengiriman untuk mengendalikan biaya._
 
 ### Seller Performance Dashboard
-![Seller Dashboard](images/2_Customers_Insights_Dashboard.png)
-### Key Insights
-blabla
-### Business Recommendations
-blabla
+![Seller Dashboard](images/4_Seller_Performance_Dashboard.png)
+### Key Insights & Business Recommendations
+- Platform memiliki sekitar $2,38$ ribu seller aktif, meningkat $75,8%$ dibandingkan tahun sebelumnya. Hal ini menunjukkan semakin banyak seller yang bergabung.
+  - Melanjutkan strategi akuisisi seller melalui proses rekrutmen yang lebih mudah.
+- Rata-rata pendapatan per seller mencapai $2,91 ribu, meningkat 12,3% dengan rata-rata jumlah pesanan (23) dan pelanggan (22) yang dilayani setiap seller juga meningkat lebih dari 13%, menunjukkan bahwa produktivitas seller ikut meningkat seiring pertumbuhan platform.
+  - Berikan pelatihan, dashboard performa, dan insight penjualan untuk membantu seller meningkatkan kinerjanya.
+- Seller dengan pendapatan tertinggi menghasilkan sekitar $8,1 ribu, sedangkan seller lainnya dalam peringkat teratas menghasilkan sekitar $3,9–7,7 ribu.
+  - Mempertahankan seller berkinerja tinggi melalui program insentif, penghargaan, atau fasilitas eksklusif serta membantu seller dengan performa menengah dan rendah melalui promosi, pelatihan, serta pendampingan
+- Mayoritas seller berada pada kategori Medium dan Low Performer
+  - Fokus pada pengembangan seller kategori medium dan low performer melalui pelatihan, evaluasi performa, dan dukungan pemasaran.
+- Peta distribusi menunjukkan bahwa seller lebih banyak terkonsentrasi di beberapa negara bagian di Brasil, sementara wilayah lainnya masih memiliki jumlah seller yang relatif sedikit bahkan tidak ada.
+  - Perluas program akuisisi seller ke wilayah yang masih memiliki potensi pertumbuhan serta meningkatkan dukungan logistik dan operasional di wilayah baru agar seller dapat beroperasi secara optimal.
+
+## Conclusion
 
 
 
