@@ -31,20 +31,27 @@ Data yang digunakan dalam analisis ini telah dimodelkan pada proyek Olist Data W
 ![Customer Dashboard](images/2_Customer_Insights_Dashboard.png)
 ### Key Insights & Business Recommendation
 - Jumlah pelanggan mencapai $52,56$ ribu, dengan $51,89$ ribu di antaranya merupakan pelanggan baru, sedangkan pelanggan lama hanya sekitar 2%.
-  - Diperlukan pengembangan strategi lebih lanjut untuk menyeimbangkan fokus antara memperoleh pelanggan baru dan mempertahankan pelanggan lama.
+  - _Diperlukan pengembangan strategi lebih lanjut untuk menyeimbangkan fokus antara memperoleh pelanggan baru dan mempertahankan pelanggan lama._
 - Rata-rata spending customer sebesar $$131.80$ dengan frekuensi berbelanja didominasi $96.6%$ oleh pelanggan yang hanya melakukan satu kali pembelian sedangkan pelanggan yang melakukan pembelian berulang hanya sekitar $3.4%$.
-  - Meningkatkan frekuensi pembelian serta nilai belanja pelanggan melalui rekomendasi produk yang dipersonalisasi, pengingat pembelian ulang, dan program loyalitas serta gunakan produk dengan potensi pembelian berulang untuk dijadikan target promosi pada pelanggan yang relevan.
+  - _Meningkatkan frekuensi pembelian serta nilai belanja pelanggan melalui rekomendasi produk yang dipersonalisasi, pengingat pembelian ulang, dan program loyalitas serta gunakan produk dengan potensi pembelian berulang untuk dijadikan target promosi pada pelanggan yang relevan._
 - Customer terdistribusi cukup merata diseluruh wilayah brazil, namun terdapat satu wilayah dengan total customer terbanyak, yaitu Sao Paulo.
-  - Mempertahankan strategi pemasaran di wilayah dengan jumlah pelanggan tinggi serta di wilayah yang masih memiliki jumlah pelanggan rendah namun berpotensi berkembang.
+  - _Mempertahankan strategi pemasaran di wilayah dengan jumlah pelanggan tinggi serta di wilayah yang masih memiliki jumlah pelanggan rendah namun berpotensi berkembang._
 - Terdapat pelanggan dengan kontribusi pendapatan sangat tinggi sekitar $6.7$ ribu, sedangkan pelanggan lainnya dalam daftar teratas menyumbang sekitar $3.7-4.6$ ribu.
-  - Identifikasi dan pertahankan pelanggan bernilai tinggi melalui program VIP Customer atau layanan eksklusif untuk meningkatkan loyalitas dari pelanggan.
+  - _Identifikasi dan pertahankan pelanggan bernilai tinggi melalui program VIP Customer atau layanan eksklusif untuk meningkatkan loyalitas dari pelanggan._
 
 ### Product Performance Dashboard
-![Product Dashboard](images/2_Customers_Insights_Dashboard.png)
-### Key Insights
-blabla
-### Business Recommendations
-blabla
+![Product Dashboard](images/3_Product_Performance_Dashboard.png)
+### Key Insights & Business Recommendation
+- Sebanyak $55,77$ ribu produk berhasil terjual, meningkat $99,6%$ dibandingkan tahun sebelumnya. Selain itu, jumlah produk unik yang terjual juga meningkat $80,2%$, menunjukkan bahwa semakin banyak variasi produk yang berhasil dipasarkan.
+  - _Pertahankan strategi pengembangan katalog produk, terutama pada kategori yang memiliki permintaan tinggi._
+- Meskipun jumlah produk yang terjual meningkat secara signifikan, rata-rata pendapatan per produk $($124,20)$ justru mengalami penurunan $1,1%$, menunjukkan bahwa peningkatan pendapatan lebih dipengaruhi oleh bertambahnya jumlah produk yang terjual daripada meningkatnya nilai setiap produk.
+  - _Tingkatkan profitabilitas melalui strategi upselling, bundling atau penawaran produk premium, serta tinjau kembali strategi harga pada produk yang mengalami penurunan nilai penjualan rata-rata._
+- Kategori Home & Living menjadi kategori dengan pendapatan tertinggi ($1,41 juta) sekaligus jumlah produk terjual terbanyak (13,5 ribu unit), menunjukkan kategori tersebut memiliki permintaan pasar yang tinggi.
+  - _Prioritaskan investasi, promosi, dan penambahan variasi produk pada kategori Home & Living._
+- Pada tingkat subkategori, Health & Beauty menghasilkan pendapatan terbesar ($741 ribu), sedangkan Bed Bath Table dan Computers Accessories memiliki jumlah produk terjual yang lebih tinggi.
+  - _Meningkatkan nilai jual dan branding untuk produk bernilai tinggi. Kemudian, fokus pada efisiensi stok dan operasional untuk produk dengan volume penjualan tinggi._
+- Rata-rata biaya pengiriman mencapai $20,62, meningkat 5,8% dibandingkan tahun sebelumnya.
+  - _Evaluasi biaya logistik dan lakukan negosiasi dengan mitra pengiriman untuk mengendalikan biaya._
 
 ### Seller Performance Dashboard
 ![Seller Dashboard](images/2_Customers_Insights_Dashboard.png)
