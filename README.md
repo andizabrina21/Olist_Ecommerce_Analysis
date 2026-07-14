@@ -1,5 +1,5 @@
 # Olist Ecommerce Analysis
-Olist merupakah salah satu perusahaan ecommerce asal brazil yang 
+Olist merupakan platform _e-commerce_ yang menghubungkan para pedagang dengan pelanggan di seluruh wilayah Brazil. Platform ini berfungsi sebagai _marketplace_ yang memfasilitasi para pedagang dalam memasarkan dan menjual produk mereka, sekaligus memudahkan pelanggan untuk mencari, memilih, dan membeli produk secara online.
 ## Project Overview
 blabla
 ## Business Problem
