@@ -12,25 +12,37 @@ Sebelum proses analisis dilakukan, dataset terlebih dahulu melalui tahap data cl
 Data yang digunakan dalam analisis ini telah dimodelkan pada proyek Olist Data Warehouse menggunakan skema dimensional (dimensional modeling). Proses tersebut menghasilkan struktur data yang terdiri atas tabel fakta dan tabel dimensi yang telah dioptimalkan untuk kebutuhan analisis dan visualisasi data. Detail mengenai model data serta hubungan antartabel dapat dilihat pada proyek [Olist Data Warehouse].
 ## Dashboard Overview
 ### Business Overview Dashboard
-![Business Dashboard](images/Business_Overview_Dashboard)
-### Key Insights
-blabla
-### Business Recommendations
-blabla
+![Business Dashboard](images/1_Business_Overview_Dashboard.png)
+### Key Insights & Business Recommendation
+- Terdapat pertumbuhan bisnis yang signifikan dibanding tahun sebelumnya (lebih dari $95%$), baik dari aspek total pendapatan, total orders maupun total items yang terjual.
+  - _Mempertahankan strategi pemasaran dan akuisisi pelanggan yang telah mendorong pertumbuhan bisnis yang signifikan tersebut._
+- Meskipun total pendapatan meningkat, nilai _Average Order Value (AOV)_ justru menurun $1.1%$ dibandingkan tahun sebelumnya, yang menunjukkan bahwa peningkatan pendapatan lebih banyak berasal dari bertambahnya jumlah transaksi dibandingkan peningkatan nilai belanja per transaksi.
+  - _Meningkatkan nilai transaksi rata-rata melalui strategi cross-selling, bundling produk, atau rekomendasi produk yang relevan._
+- Rata-rata waktu pengiriman adalah $12$ hari, sedikit lebih cepat dibanding tahun sebelumnya. Selain itu, $91,48%$ pesanan berhasil dikirim tepat waktu, menunjukkan performa logistik yang baik. Namun, tidak menutup fakta bahwa masih cukup banyak pengiriman yang telat.
+  - _Mempertahankan kerja sama dengan mitra logistik yang memiliki performa tinggi, serta mengidentifikasi wilayah atau seller yang masih sering mengalami keterlambatan untuk dilakukan evaluasi lebih lanjut._
+- Rata-rata rating pelanggan mencapai $4,07$ dari $5$, dengan mayoritas ulasan termasuk kategori positif. Namun, masih terdapat sekitar $7.750$ ulasan negatif yang menunjukkan adanya ruang untuk perbaikan.
+  - _Analisis isi ulasan negatif untuk mengidentifikasi penyebab utama, seperti keterlambatan pengiriman, kualitas produk, atau masalah layanan._
+- Sekitar $76%$ transaksi menggunakan kartu kredit, sedangkan pembayaran melalui boleto sekitar $19%$. Metode pembayaran lainnya hanya digunakan oleh sebagian kecil pelanggan.
+  - _Optimalkan pengalaman pembayaran menggunakan kartu kredit karena merupakan metode pembayaran utama pelanggan._
+- Sebagian besar pesanan telah berstatus _Delivered_, sedangkan jumlah pesanan yang dibatalkan maupun masih diproses relatif kecil dibandingkan total transaksi.
+  - _Pantau penyebab pembatalan pesanan agar dapat diminimalkan, serta meningkatkan efisiensi proses pemenuhan pesanan untuk mengurangi pesanan yang masih berada pada tahap pemrosesan._
 
 ### Customer Insights Dashboard
+![Customer Dashboard](images/2_Customers_Insights_Dashboard.png)
 ### Key Insights
 blabla
 ### Business Recommendations
 blabla
 
 ### Product Performance Dashboard
+![Product Dashboard](images/2_Customers_Insights_Dashboard.png)
 ### Key Insights
 blabla
 ### Business Recommendations
 blabla
 
 ### Seller Performance Dashboard
+![Seller Dashboard](images/2_Customers_Insights_Dashboard.png)
 ### Key Insights
 blabla
 ### Business Recommendations
