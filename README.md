@@ -28,11 +28,16 @@ Data yang digunakan dalam analisis ini telah dimodelkan pada proyek Olist Data W
   - _Pantau penyebab pembatalan pesanan agar dapat diminimalkan, serta meningkatkan efisiensi proses pemenuhan pesanan untuk mengurangi pesanan yang masih berada pada tahap pemrosesan._
 
 ### Customer Insights Dashboard
-![Customer Dashboard](images/2_Customers_Insights_Dashboard.png)
-### Key Insights
-blabla
-### Business Recommendations
-blabla
+![Customer Dashboard](images/2_Customer_Insights_Dashboard.png)
+### Key Insights & Business Recommendation
+- Jumlah pelanggan mencapai $52,56$ ribu, dengan $51,89$ ribu di antaranya merupakan pelanggan baru, sedangkan pelanggan lama hanya sekitar 2%.
+  - Diperlukan pengembangan strategi lebih lanjut untuk menyeimbangkan fokus antara memperoleh pelanggan baru dan mempertahankan pelanggan lama.
+- Rata-rata spending customer sebesar $$131.80$ dengan frekuensi berbelanja didominasi $96.6%$ oleh pelanggan yang hanya melakukan satu kali pembelian sedangkan pelanggan yang melakukan pembelian berulang hanya sekitar $3.4%$.
+  - Meningkatkan frekuensi pembelian serta nilai belanja pelanggan melalui rekomendasi produk yang dipersonalisasi, pengingat pembelian ulang, dan program loyalitas serta gunakan produk dengan potensi pembelian berulang untuk dijadikan target promosi pada pelanggan yang relevan.
+- Customer terdistribusi cukup merata diseluruh wilayah brazil, namun terdapat satu wilayah dengan total customer terbanyak, yaitu Sao Paulo.
+  - Mempertahankan strategi pemasaran di wilayah dengan jumlah pelanggan tinggi serta di wilayah yang masih memiliki jumlah pelanggan rendah namun berpotensi berkembang.
+- Terdapat pelanggan dengan kontribusi pendapatan sangat tinggi sekitar $6.7$ ribu, sedangkan pelanggan lainnya dalam daftar teratas menyumbang sekitar $3.7-4.6$ ribu.
+  - Identifikasi dan pertahankan pelanggan bernilai tinggi melalui program VIP Customer atau layanan eksklusif untuk meningkatkan loyalitas dari pelanggan.
 
 ### Product Performance Dashboard
 ![Product Dashboard](images/2_Customers_Insights_Dashboard.png)
