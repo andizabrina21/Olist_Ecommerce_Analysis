@@ -57,17 +57,20 @@ Data yang digunakan dalam analisis ini telah dimodelkan pada proyek Olist Data W
 ![Seller Dashboard](images/4_Seller_Performance_Dashboard.png)
 ### Key Insights & Business Recommendations
 - Platform memiliki sekitar $2,38$ ribu seller aktif, meningkat $75,8%$ dibandingkan tahun sebelumnya. Hal ini menunjukkan semakin banyak seller yang bergabung.
-  - Melanjutkan strategi akuisisi seller melalui proses rekrutmen yang lebih mudah.
+  - _Melanjutkan strategi akuisisi seller melalui proses rekrutmen yang lebih mudah._
 - Rata-rata pendapatan per seller mencapai $2,91 ribu, meningkat 12,3% dengan rata-rata jumlah pesanan (23) dan pelanggan (22) yang dilayani setiap seller juga meningkat lebih dari 13%, menunjukkan bahwa produktivitas seller ikut meningkat seiring pertumbuhan platform.
-  - Berikan pelatihan, dashboard performa, dan insight penjualan untuk membantu seller meningkatkan kinerjanya.
+  - _Memberikan pelatihan, dashboard performa, dan insight penjualan untuk membantu seller meningkatkan kinerjanya._
 - Seller dengan pendapatan tertinggi menghasilkan sekitar $8,1 ribu, sedangkan seller lainnya dalam peringkat teratas menghasilkan sekitar $3,9–7,7 ribu.
-  - Mempertahankan seller berkinerja tinggi melalui program insentif, penghargaan, atau fasilitas eksklusif serta membantu seller dengan performa menengah dan rendah melalui promosi, pelatihan, serta pendampingan
+  - _Mempertahankan seller berkinerja tinggi melalui program insentif, penghargaan, atau fasilitas eksklusif serta membantu seller dengan performa menengah dan rendah melalui promosi, pelatihan, serta pendampingan._
 - Mayoritas seller berada pada kategori Medium dan Low Performer
-  - Fokus pada pengembangan seller kategori medium dan low performer melalui pelatihan, evaluasi performa, dan dukungan pemasaran.
+  - _Fokus pada pengembangan seller kategori medium dan low performer melalui pelatihan, evaluasi performa, dan dukungan pemasaran._
 - Peta distribusi menunjukkan bahwa seller lebih banyak terkonsentrasi di beberapa negara bagian di Brasil, sementara wilayah lainnya masih memiliki jumlah seller yang relatif sedikit bahkan tidak ada.
-  - Perluas program akuisisi seller ke wilayah yang masih memiliki potensi pertumbuhan serta meningkatkan dukungan logistik dan operasional di wilayah baru agar seller dapat beroperasi secara optimal.
+  - _Perluas program akuisisi seller ke wilayah yang masih memiliki potensi pertumbuhan serta meningkatkan dukungan logistik dan operasional di wilayah baru agar seller dapat beroperasi secara optimal._
 
 ## Conclusion
-
+- Kinerja bisnis menunjukkan pertumbuhan yang sangat signifikan dibandindgkan tahun sebelumnya pada hampir seluruh indikator utama, baik itu pendapatan, jumlah pesanan hingga jumlah seller.
+- Meskipun jumlah pelanggan baru dan volume transaksi meningkat pesat, tingkat retensi pelanggan masih rendah dan nilai transaksi rata-rata sedikit menurun, sehingga perlu memprioritaskan strategi yang berfokus pada peningkatan retensi pelanggan, frekuensi pembelian, nilai transaksi rata-rata, pengembangan seller, optimalisasi kategori produk, serta efisiensi operasional.
+- Terdapat berbagai variasi kategori dan subkategori produk yang menyumbang revenue terbesar, menunjukkan adanya peluang untuk mengoptimalkan kontribusi setiap kategori dengan meningkatakn nilai jual dan branding untuk produk bernilai tinggi serta fokus pada efisiensi stok dan operasional untuk produk dengan volume penjualan tinggi.
+- Tidak hanya jumlah seller yang meningkat, rata-rata pendapatan, jumlah pesanan, dan jumlah pelanggan per seller juga mengalami pertumbuhan. Namun, persebaran seller masih belum mencakup keseluruhan wilayah Brazil. Hal ini menunjukkan bahwa seller secara umum semakin produktif dalam memanfaatkan platform untuk meningkatkan penjualan, serta perlunya untuk melakukan ekspansi seller agar lebih merata.
 
 
