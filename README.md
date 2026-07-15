@@ -44,8 +44,8 @@ Data yang digunakan dalam analisis ini telah dimodelkan pada proyek Olist Data W
 ### Key Insights & Business Recommendation
 - Sebanyak $55,77$ ribu produk berhasil terjual, meningkat $99,6%$ dibandingkan tahun sebelumnya. Selain itu, jumlah produk unik yang terjual juga meningkat $80,2%$, menunjukkan bahwa semakin banyak variasi produk yang berhasil dipasarkan.
   - _Pertahankan strategi pengembangan katalog produk, terutama pada kategori yang memiliki permintaan tinggi._
-- Meskipun jumlah produk yang terjual meningkat secara signifikan, rata-rata pendapatan per produk $($124,20)$ justru mengalami penurunan $1,1%$, menunjukkan bahwa peningkatan pendapatan lebih dipengaruhi oleh bertambahnya jumlah produk yang terjual daripada meningkatnya nilai setiap produk.
-  - _Tingkatkan profitabilitas melalui strategi upselling, bundling atau penawaran produk premium, serta tinjau kembali strategi harga pada produk yang mengalami penurunan nilai penjualan rata-rata._
+- Meskipun rata-rata harga produk mengalami penurunan sebesar 1,1%, rata-rata pendapatan per produk justru meningkat menjadi $338.02. Hal ini menunjukkan bahwa pertumbuhan pendapatan lebih didorong oleh meningkatnya volume penjualan daripada kenaikan harga produk.
+  - _Mempertahankan strategi penjualan yang berhasil meningkatkan volume transaksi, serta optimalkan profitabilitas melalui strategi upselling, cross-selling, bundling, atau penawaran produk premium tanpa mengurangi daya saing harga._
 - Kategori Home & Living menjadi kategori dengan pendapatan tertinggi ($1,41 juta) sekaligus jumlah produk terjual terbanyak (13,5 ribu unit), menunjukkan kategori tersebut memiliki permintaan pasar yang tinggi.
   - _Prioritaskan investasi, promosi, dan penambahan variasi produk pada kategori Home & Living._
 - Pada tingkat subkategori, Health & Beauty menghasilkan pendapatan terbesar ($741 ribu), sedangkan Bed Bath Table dan Computers Accessories memiliki jumlah produk terjual yang lebih tinggi.
